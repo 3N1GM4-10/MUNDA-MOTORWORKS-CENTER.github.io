@@ -1,8 +1,9 @@
-/* body::before{
+body::before{
   display:block;
   content: '';
   height: 135px;
-} */
+  background-color: #00203FFF;
+}
 .Transmission{
   background-color: rgb(15, 45, 75);
 }
@@ -10,11 +11,14 @@
   margin-top: 0px;
   width: 80px;
   height: 80px;
-} 
-.navbackground {
- /*  background-color: rgb(15, 45, 75); */
- background-color: #00203FFF;
 }
+/* nav {
+
+}  */
+  .navbackground {
+  /*  background-color: rgb(15, 45, 75); */
+  background-color: #00203FFF;
+  }
   .title{
     margin-left: 15px;
   }
