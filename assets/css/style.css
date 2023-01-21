@@ -1,16 +1,15 @@
 body::before{
   display:block;
   content: '';
-  height: 135px;
+  height: 120px;
   background-color: #00203FFF;
 }
 .Transmission{
   background-color: rgb(15, 45, 75);
 }
 .logo {
-  margin-top: 4px;
-  width: 90px;
-  height: 90px;
+  width: 75px;
+  height: 75px;
 } 
 .navbackground {
  /*  background-color: rgb(15, 45, 75); */
@@ -44,10 +43,6 @@ h3 {
 .newsletter{
   background-color: #ADEFD1FF;
 }
-  .mechanicimg{
-    /* margin-top: 50px; */
-    height: 700px;
-  }
 
 /* for button get in touch */
 
